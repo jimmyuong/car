@@ -1,8 +1,8 @@
 # Preview
 
-![car]([https://github.com/jimmyuong/car/preview/preview1.png](https://github.com/jimmyuong/car/blob/main/preview/preview2.png?raw=true))
+![car]([https://github.com/jimmyuong/car/preview/preview1.png](https://github.com/jimmyuong/car/blob/main/preview/preview2.png))
 
-![car]([https://github.com/jimmyuong/car/preview/preview1.png](https://github.com/jimmyuong/car/blob/main/preview/preview1.png?raw=true))
+![car]([https://github.com/jimmyuong/car/preview/preview1.png](https://github.com/jimmyuong/car/blob/main/preview/preview1.png))
 
 # My Vue + Three.js Project
 
