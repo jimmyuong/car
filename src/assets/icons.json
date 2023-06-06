@@ -1,0 +1,11 @@
+[
+    {
+      "id":1,
+      "name":"people",
+      "svg":"<svg width='24' height='24' viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'> <g clip-path='url(#clip0_649_16306-899876)'> <path d='M18 19L6 19L6 18C6 15.2386 8.23858 13 11 13L13 13C15.7614 13 18 15.2386 18 18L18 19Z' stroke='#010101' stroke-width='1.5'/> <circle cx='12' cy='9' r='4' stroke='#010101' stroke-width='1.5'/> </g> <defs> <clipPath id='clip0_649_16306-899876'> <rect width='24' height='24' fill='white'/> </clipPath> </defs> </svg>"
+    },{
+      "id":2,
+      "name":"people",
+      "svg":"<svg width='24' height='24' viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'> <g clip-path='url(#clip0_649_16306-899876)'> <path d='M18 19L6 19L6 18C6 15.2386 8.23858 13 11 13L13 13C15.7614 13 18 15.2386 18 18L18 19Z' stroke='#010101' stroke-width='1.5'/> <circle cx='12' cy='9' r='4' stroke='#010101' stroke-width='1.5'/> </g> <defs> <clipPath id='clip0_649_16306-899876'> <rect width='24' height='24' fill='white'/> </clipPath> </defs> </svg>"
+    }
+]

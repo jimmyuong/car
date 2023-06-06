@@ -1,0 +1,15 @@
+<svg width="1900" height="90" viewBox="0 0 1900 90" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+<path d="M674.639 64L630 25.3507L639.265 2H1262.73L1272 25.3507L1227.36 64H951.442H674.639Z" fill="none" stroke="#0A6164"/>
+<ellipse rx="2" ry="1" class="colordot" fill="#9BFCFF">
+   <animateMotion dur="5s" repeatCount="indefinite" path="M674.639 64L630 25.3507L639.265 2H1262.73L1272 25.3507L1227.36 64H951.442H674.639Z" />
+</ellipse>
+
+
+<defs>
+<radialGradient id="paint0_radial_643_15825" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(630 25) rotate(90) scale(5)">
+<stop stop-color="#00F7FF"/>
+<stop offset="1" stop-color="#00F7FF" stop-opacity="0"/>
+</radialGradient>
+</defs>
+</svg>

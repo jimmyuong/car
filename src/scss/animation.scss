@@ -1,0 +1,67 @@
+
+@keyframes border-animation{
+  0%{
+   border-color:transparent;
+  }
+  50%{
+   border-color:#005757;
+ }100%{
+   border-color:transparent;
+ }
+ }
+
+ @keyframes outline{
+        0%{ outline: 10px solid transparent;}
+        50%{ outline: 0px solid #006468;}
+        80%{ outline: 6px solid #008d92;}
+        100%{ outline: 0px solid transparent;}
+}
+
+//    .top{
+     //z-index: 3; 
+     //background-image: url("svg/top.svg");
+   //}
+   //.middle{
+     //z-index: 2;
+     //background-image: url("svg/middle.svg");
+   //}
+   //.bottom{
+     //z-index: 1;
+     //background-image: url("svg/bottom.svg");
+     //background-position-y: 10px;
+   //}
+
+     @keyframes top{
+    0%{ background-position-y: -90px;}
+    100%{ background-position-y: -6px;}
+   }
+
+   @keyframes middle{
+    0%{ background-position-y: -90px;}
+    50%{ background-position-y: -90px;}
+    100%{ background-position-y: -6px;}
+   }
+
+   @keyframes bottom{
+    0%{ background-position-y: -90px;}
+    33%{ background-position-y: -90px;}
+    100%{ background-position-y: 10px;}
+   }
+
+   @keyframes section{
+    0%{ opacity: 0;}
+    75%{ opacity: 0;}
+    100%{ opacity: 1;}
+   }
+
+   @keyframes title{
+    0%{ opacity: 0;}
+    66%{ opacity: 0;}
+    100%{ opacity: 1;}
+   }
+
+     @keyframes light{
+    0%{opacity: 1;}
+    50%{opacity: .5;}
+    100%{opacity: 1;}
+  }
