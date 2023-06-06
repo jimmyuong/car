@@ -8,8 +8,8 @@ This is my awesome project built with Vue CLI and Three.js.
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
-2. Navigate to the project directory: `cd your-repo`
+1. Clone the repository: `git clone https://github.com/jimmyuong/car.git`
+2. Navigate to the project directory: `cd car`
 3. Install the dependencies: `npm install`
 
 ## Usage
