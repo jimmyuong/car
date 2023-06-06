@@ -1,6 +1,6 @@
 # Preview
 
-
+![car](https://github.com/jimmyuong/car/preview/preview1.png)
 
 # My Vue + Three.js Project
 
