@@ -4,11 +4,10 @@
   <main id="login">
      <div id="loginBox">
      <form>
-     <div class="time">{{times}}</div>
-     <input type="text" class="logininput-Text" placeholder="name/email/phone/code" value="jimmywong">
-     <input type="password" class="logininput-Password" value="123456789">
-     <router-link to="/" class="loginSubmit" >SUBMIT</router-link>
-
+       <div class="time">{{times}}</div>
+       <input type="text" class="logininput-Text" placeholder="name/email/phone/code" value="jimmywong">
+       <input type="password" class="logininput-Password" value="123456789">
+       <router-link to="/" class="loginSubmit" >SUBMIT</router-link>
      </form>
      </div>
   </main>

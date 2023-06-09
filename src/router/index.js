@@ -18,6 +18,11 @@ const routes = [
     component: () => import(/* webpackChunkName: "about" */ '../views/LoginView.vue')
   },
   {
+    path: '/hmi',
+    name: 'HMI',
+    component: () => import(/* webpackChunkName: "about" */ '../views/HmiView.vue')
+  },
+  {
     path: '/table',
     name: 'table',
     component: () => import(/* webpackChunkName: "about" */ '../views/TableView.vue')

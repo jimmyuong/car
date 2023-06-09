@@ -1,215 +1,46 @@
-<svg width="1920" height="1080" viewBox="0 0 1920 1080" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="1920" height="1080" fill="url(#paint0_radial_637_15360)"/>
-<g opacity="0.5" filter="url(#filter0_f_637_15360)">
-<g opacity="0.1">
-<circle cx="546" cy="236" r="10" fill="#14A5AA"/>
-<circle cx="601" cy="236" r="10" fill="#14A5AA"/>
-<circle cx="656" cy="236" r="10" fill="#14A5AA"/>
-<circle cx="711" cy="236" r="10" fill="#14A5AA"/>
-<circle cx="766" cy="236" r="10" fill="#14A5AA"/>
-<circle cx="821" cy="236" r="10" fill="#14A5AA"/>
-<circle cx="876" cy="236" r="10" fill="#14A5AA"/>
-<circle cx="931" cy="236" r="10" fill="#14A5AA"/>
+<svg width="1940" height="1100" viewBox="0 0 1940 1100" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g opacity="0.73" clip-path="url(#clip0_1201_114085)" filter="url(#filter0_bd_1201_114085)">
+<rect width="1920" height="1080" transform="translate(10)" fill="#00292C"/>
+<g filter="url(#filter1_f_1201_114085)">
+<circle cx="918" cy="393" r="686" fill="#00222D"/>
 </g>
-<g opacity="0.2">
-<circle cx="471" cy="296" r="15" fill="#14A5AA"/>
-<circle cx="536" cy="296" r="15" fill="#14A5AA"/>
-<circle cx="601" cy="296" r="15" fill="#14A5AA"/>
-<circle cx="666" cy="296" r="15" fill="#14A5AA"/>
-<circle cx="731" cy="296" r="15" fill="#14A5AA"/>
-<circle cx="796" cy="296" r="15" fill="#14A5AA"/>
-<circle cx="861" cy="296" r="15" fill="#14A5AA"/>
-<circle cx="926" cy="296" r="15" fill="#14A5AA"/>
+<g filter="url(#filter2_f_1201_114085)">
+<circle cx="1950" cy="1054" r="512" fill="#1FA9BC"/>
 </g>
-<g opacity="0.3">
-<circle cx="396" cy="366" r="20" fill="#14A5AA"/>
-<circle cx="471" cy="366" r="20" fill="#14A5AA"/>
-<circle cx="546" cy="366" r="20" fill="#14A5AA"/>
-<circle cx="621" cy="366" r="20" fill="#14A5AA"/>
-<circle cx="696" cy="366" r="20" fill="#14A5AA"/>
-<circle cx="771" cy="366" r="20" fill="#14A5AA"/>
-<circle cx="846" cy="366" r="20" fill="#14A5AA"/>
-<circle cx="921" cy="366" r="20" fill="#14A5AA"/>
-</g>
-<g opacity="0.4">
-<circle cx="321" cy="446" r="25" fill="#14A5AA"/>
-<circle cx="406" cy="446" r="25" fill="#14A5AA"/>
-<circle cx="491" cy="446" r="25" fill="#14A5AA"/>
-<circle cx="576" cy="446" r="25" fill="#14A5AA"/>
-<circle cx="661" cy="446" r="25" fill="#14A5AA"/>
-<circle cx="746" cy="446" r="25" fill="#14A5AA"/>
-<circle cx="831" cy="446" r="25" fill="#14A5AA"/>
-<circle cx="916" cy="446" r="25" fill="#14A5AA"/>
-</g>
-<circle cx="246" cy="536" r="30" fill="#14A5AA"/>
-<circle cx="341" cy="536" r="30" fill="#14A5AA"/>
-<circle cx="436" cy="536" r="30" fill="#14A5AA"/>
-<circle cx="531" cy="536" r="30" fill="#14A5AA"/>
-<circle cx="626" cy="536" r="30" fill="#14A5AA"/>
-<circle cx="721" cy="536" r="30" fill="#14A5AA"/>
-<circle cx="816" cy="536" r="30" fill="#14A5AA"/>
-<circle cx="911" cy="536" r="30" fill="#14A5AA"/>
-<g opacity="0.1">
-<circle cx="990" cy="236" r="10" fill="#14A5AA"/>
-<circle cx="1045" cy="236" r="10" fill="#14A5AA"/>
-<circle cx="1100" cy="236" r="10" fill="#14A5AA"/>
-<circle cx="1155" cy="236" r="10" fill="#14A5AA"/>
-<circle cx="1210" cy="236" r="10" fill="#14A5AA"/>
-<circle cx="1265" cy="236" r="10" fill="#14A5AA"/>
-<circle cx="1320" cy="236" r="10" fill="#14A5AA"/>
-<circle cx="1375" cy="236" r="10" fill="#14A5AA"/>
-</g>
-<g opacity="0.2">
-<circle cx="995" cy="296" r="15" fill="#14A5AA"/>
-<circle cx="1060" cy="296" r="15" fill="#14A5AA"/>
-<circle cx="1125" cy="296" r="15" fill="#14A5AA"/>
-<circle cx="1190" cy="296" r="15" fill="#14A5AA"/>
-<circle cx="1255" cy="296" r="15" fill="#14A5AA"/>
-<circle cx="1320" cy="296" r="15" fill="#14A5AA"/>
-<circle cx="1385" cy="296" r="15" fill="#14A5AA"/>
-<circle cx="1450" cy="296" r="15" fill="#14A5AA"/>
-</g>
-<g opacity="0.3">
-<circle cx="1000" cy="366" r="20" fill="#14A5AA"/>
-<circle cx="1075" cy="366" r="20" fill="#14A5AA"/>
-<circle cx="1150" cy="366" r="20" fill="#14A5AA"/>
-<circle cx="1225" cy="366" r="20" fill="#14A5AA"/>
-<circle cx="1300" cy="366" r="20" fill="#14A5AA"/>
-<circle cx="1375" cy="366" r="20" fill="#14A5AA"/>
-<circle cx="1450" cy="366" r="20" fill="#14A5AA"/>
-<circle cx="1525" cy="366" r="20" fill="#14A5AA"/>
-</g>
-<g opacity="0.4">
-<circle cx="1005" cy="446" r="25" fill="#14A5AA"/>
-<circle cx="1090" cy="446" r="25" fill="#14A5AA"/>
-<circle cx="1175" cy="446" r="25" fill="#14A5AA"/>
-<circle cx="1260" cy="446" r="25" fill="#14A5AA"/>
-<circle cx="1345" cy="446" r="25" fill="#14A5AA"/>
-<circle cx="1430" cy="446" r="25" fill="#14A5AA"/>
-<circle cx="1515" cy="446" r="25" fill="#14A5AA"/>
-<circle cx="1600" cy="446" r="25" fill="#14A5AA"/>
-</g>
-<circle cx="1010" cy="536" r="30" fill="#14A5AA"/>
-<circle cx="1105" cy="536" r="30" fill="#14A5AA"/>
-<circle cx="1200" cy="536" r="30" fill="#14A5AA"/>
-<circle cx="1295" cy="536" r="30" fill="#14A5AA"/>
-<circle cx="1390" cy="536" r="30" fill="#14A5AA"/>
-<circle cx="1485" cy="536" r="30" fill="#14A5AA"/>
-<circle cx="1580" cy="536" r="30" fill="#14A5AA"/>
-<circle cx="1675" cy="536" r="30" fill="#14A5AA"/>
-</g>
-<g opacity="0.5" filter="url(#filter1_f_637_15360)">
-<circle cx="246" cy="655" r="30" fill="#14A5AA"/>
-<circle cx="341" cy="655" r="30" fill="#14A5AA"/>
-<circle cx="436" cy="655" r="30" fill="#14A5AA"/>
-<circle cx="531" cy="655" r="30" fill="#14A5AA"/>
-<circle cx="626" cy="655" r="30" fill="#14A5AA"/>
-<circle cx="721" cy="655" r="30" fill="#14A5AA"/>
-<circle cx="816" cy="655" r="30" fill="#14A5AA"/>
-<circle cx="911" cy="655" r="30" fill="#14A5AA"/>
-<g opacity="0.4">
-<circle cx="321" cy="745" r="25" fill="#14A5AA"/>
-<circle cx="406" cy="745" r="25" fill="#14A5AA"/>
-<circle cx="491" cy="745" r="25" fill="#14A5AA"/>
-<circle cx="576" cy="745" r="25" fill="#14A5AA"/>
-<circle cx="661" cy="745" r="25" fill="#14A5AA"/>
-<circle cx="746" cy="745" r="25" fill="#14A5AA"/>
-<circle cx="831" cy="745" r="25" fill="#14A5AA"/>
-<circle cx="916" cy="745" r="25" fill="#14A5AA"/>
-</g>
-<g opacity="0.3">
-<circle cx="396" cy="825" r="20" fill="#14A5AA"/>
-<circle cx="471" cy="825" r="20" fill="#14A5AA"/>
-<circle cx="546" cy="825" r="20" fill="#14A5AA"/>
-<circle cx="621" cy="825" r="20" fill="#14A5AA"/>
-<circle cx="696" cy="825" r="20" fill="#14A5AA"/>
-<circle cx="771" cy="825" r="20" fill="#14A5AA"/>
-<circle cx="846" cy="825" r="20" fill="#14A5AA"/>
-<circle cx="921" cy="825" r="20" fill="#14A5AA"/>
-</g>
-<g opacity="0.2">
-<circle cx="471" cy="895" r="15" fill="#14A5AA"/>
-<circle cx="536" cy="895" r="15" fill="#14A5AA"/>
-<circle cx="601" cy="895" r="15" fill="#14A5AA"/>
-<circle cx="666" cy="895" r="15" fill="#14A5AA"/>
-<circle cx="731" cy="895" r="15" fill="#14A5AA"/>
-<circle cx="796" cy="895" r="15" fill="#14A5AA"/>
-<circle cx="861" cy="895" r="15" fill="#14A5AA"/>
-<circle cx="926" cy="895" r="15" fill="#14A5AA"/>
-</g>
-<g opacity="0.1">
-<circle cx="546" cy="955" r="10" fill="#14A5AA"/>
-<circle cx="601" cy="955" r="10" fill="#14A5AA"/>
-<circle cx="656" cy="955" r="10" fill="#14A5AA"/>
-<circle cx="711" cy="955" r="10" fill="#14A5AA"/>
-<circle cx="766" cy="955" r="10" fill="#14A5AA"/>
-<circle cx="821" cy="955" r="10" fill="#14A5AA"/>
-<circle cx="876" cy="955" r="10" fill="#14A5AA"/>
-<circle cx="931" cy="955" r="10" fill="#14A5AA"/>
-</g>
-<circle cx="1010" cy="655" r="30" fill="#14A5AA"/>
-<circle cx="1105" cy="655" r="30" fill="#14A5AA"/>
-<circle cx="1200" cy="655" r="30" fill="#14A5AA"/>
-<circle cx="1295" cy="655" r="30" fill="#14A5AA"/>
-<circle cx="1390" cy="655" r="30" fill="#14A5AA"/>
-<circle cx="1485" cy="655" r="30" fill="#14A5AA"/>
-<circle cx="1580" cy="655" r="30" fill="#14A5AA"/>
-<circle cx="1675" cy="655" r="30" fill="#14A5AA"/>
-<g opacity="0.4">
-<circle cx="1005" cy="745" r="25" fill="#14A5AA"/>
-<circle cx="1090" cy="745" r="25" fill="#14A5AA"/>
-<circle cx="1175" cy="745" r="25" fill="#14A5AA"/>
-<circle cx="1260" cy="745" r="25" fill="#14A5AA"/>
-<circle cx="1345" cy="745" r="25" fill="#14A5AA"/>
-<circle cx="1430" cy="745" r="25" fill="#14A5AA"/>
-<circle cx="1515" cy="745" r="25" fill="#14A5AA"/>
-<circle cx="1600" cy="745" r="25" fill="#14A5AA"/>
-</g>
-<g opacity="0.3">
-<circle cx="1000" cy="825" r="20" fill="#14A5AA"/>
-<circle cx="1075" cy="825" r="20" fill="#14A5AA"/>
-<circle cx="1150" cy="825" r="20" fill="#14A5AA"/>
-<circle cx="1225" cy="825" r="20" fill="#14A5AA"/>
-<circle cx="1300" cy="825" r="20" fill="#14A5AA"/>
-<circle cx="1375" cy="825" r="20" fill="#14A5AA"/>
-<circle cx="1450" cy="825" r="20" fill="#14A5AA"/>
-<circle cx="1525" cy="825" r="20" fill="#14A5AA"/>
-</g>
-<g opacity="0.2">
-<circle cx="995" cy="895" r="15" fill="#14A5AA"/>
-<circle cx="1060" cy="895" r="15" fill="#14A5AA"/>
-<circle cx="1125" cy="895" r="15" fill="#14A5AA"/>
-<circle cx="1190" cy="895" r="15" fill="#14A5AA"/>
-<circle cx="1255" cy="895" r="15" fill="#14A5AA"/>
-<circle cx="1320" cy="895" r="15" fill="#14A5AA"/>
-<circle cx="1385" cy="895" r="15" fill="#14A5AA"/>
-<circle cx="1450" cy="895" r="15" fill="#14A5AA"/>
-</g>
-<g opacity="0.1">
-<circle cx="990" cy="955" r="10" fill="#14A5AA"/>
-<circle cx="1045" cy="955" r="10" fill="#14A5AA"/>
-<circle cx="1100" cy="955" r="10" fill="#14A5AA"/>
-<circle cx="1155" cy="955" r="10" fill="#14A5AA"/>
-<circle cx="1210" cy="955" r="10" fill="#14A5AA"/>
-<circle cx="1265" cy="955" r="10" fill="#14A5AA"/>
-<circle cx="1320" cy="955" r="10" fill="#14A5AA"/>
-<circle cx="1375" cy="955" r="10" fill="#14A5AA"/>
+<g filter="url(#filter3_f_1201_114085)">
+<ellipse cx="292" cy="979.5" rx="512" ry="511.5" fill="#002263"/>
 </g>
 </g>
 <defs>
-<filter id="filter0_f_637_15360" x="192" y="202" width="1537" height="388" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter0_bd_1201_114085" x="-3" y="-13" width="1946" height="1113" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="6.5"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_1201_114085"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="10"/>
+<feGaussianBlur stdDeviation="5"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.3 0"/>
+<feBlend mode="normal" in2="effect1_backgroundBlur_1201_114085" result="effect2_dropShadow_1201_114085"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect2_dropShadow_1201_114085" result="shape"/>
+</filter>
+<filter id="filter1_f_1201_114085" x="-568" y="-1093" width="2972" height="2972" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
-<feGaussianBlur stdDeviation="12" result="effect1_foregroundBlur_637_15360"/>
+<feGaussianBlur stdDeviation="400" result="effect1_foregroundBlur_1201_114085"/>
 </filter>
-<filter id="filter1_f_637_15360" x="192" y="601" width="1537" height="388" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter2_f_1201_114085" x="638" y="-258" width="2624" height="2624" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
-<feGaussianBlur stdDeviation="12" result="effect1_foregroundBlur_637_15360"/>
+<feGaussianBlur stdDeviation="400" result="effect1_foregroundBlur_1201_114085"/>
 </filter>
-<radialGradient id="paint0_radial_637_15360" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(960 540) rotate(90) scale(540 960)">
-<stop stop-color="#00292C"/>
-<stop offset="1"/>
-</radialGradient>
+<filter id="filter3_f_1201_114085" x="-1020" y="-332" width="2624" height="2623" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="400" result="effect1_foregroundBlur_1201_114085"/>
+</filter>
+<clipPath id="clip0_1201_114085">
+<rect width="1920" height="1080" fill="white" transform="translate(10)"/>
+</clipPath>
 </defs>
 </svg>

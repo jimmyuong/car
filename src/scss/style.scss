@@ -5,6 +5,19 @@ body {
     font-family: Arial, Helvetica, sans-serif !important;
 }
 
+:root{
+    --var-header-height:90px;
+    --var-footer-height:2rem;
+    --var-main-height:calc(100vh - var(--var-header-height) - var(--var-footer-height));
+}
+
+body{
+    background-image: url("@/assets/images/svg/background.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+  }
+
 body,
 html,
 #app {
@@ -202,6 +215,18 @@ table {
 
 .buttonBar {
     text-align: right;
+}
+
+
+
+.i-x{
+  height:4em;
+  width:4em;
+  border-radius: 2em;
+  svg{
+  height:4em;
+  width:4em;
+  }
 }
 
 nav {

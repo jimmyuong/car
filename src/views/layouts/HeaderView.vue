@@ -6,9 +6,11 @@
                   <router-link to="/"><i v-html="home"></i></router-link>
                   <router-link to="/table">TableView</router-link>
                   <router-link to="/car">CarView</router-link>
-                  <router-link to="/chat">ChatView</router-link>
-                  <router-link to="/play">PlayView</router-link>
+                  <router-link to="/hmi">HMI</router-link>
                   <router-link to="/box">BoxView</router-link>
+                </li>
+                <li>
+                
                 </li>
                 <li>
                 <router-link to="/setting"><i v-html="setting"></i></router-link>
@@ -49,15 +51,10 @@
       padding:0;
       margin:0;
     }
-    body{
-      background-image: url("@/assets/images/svg/background.svg");
-      background-repeat: no-repeat;
-      background-position: center;
-      background-size: cover;
-    }
+
     .title{
       animation:title 2s ease-in-out;
-      font-size: 1.2rem;
+      font-size: 1.2em;
       font-weight: bolder;
     }
     nav{
@@ -157,8 +154,9 @@
     .bottoma,.bottom{
       text-align: center;
       color:white;
-      padding-top:10px;
-      line-height: 90px;
+      //padding-top:10px;
+      padding-top:2.4em;
+      //line-height: 90px;
       background-position-y: 10px;
     }
     .flashBottom{

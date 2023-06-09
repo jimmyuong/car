@@ -7,8 +7,9 @@ import Stats from "three/examples/jsm/libs/stats.module.js";
 import { GLTFLoader } from "three/examples/jsm/loaders/GLTFLoader.js";
 import { RGBELoader } from "three/examples/jsm/loaders/RGBELoader.js"; // 导入 RGBELoader 类
 import { OrbitControls } from "three/examples/jsm/controls/OrbitControls.js"; // 导入 OrbitControls 类
-import veniceSunset from "@/assets/venice_sunset_1k.hdr"; // 导入环境贴图路径
-import gltfpath from "@/assets/ferrarid.gltf"
+//import veniceSunset from "@/assets/venice_sunset_1k.hdr"; // 导入环境贴图路径
+import veniceSunset from "@/assets/car/venice.hdr";
+import gltfpath from "@/assets/car/ferrari.gltf"
 
 
 export default {
